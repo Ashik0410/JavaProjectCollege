@@ -1,6 +1,6 @@
 package collegeProject;
 
-public class DeclaringVariables {
+public class DeclaringDataTypes {
 
 	public static void main(String[] args) {
 		int num = 19;
