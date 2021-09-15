@@ -13,7 +13,7 @@ class ExplicitTypeConversion
 
         double d = 323.142;
 
-        System.out.println("Conversion of int to byte."); 
+        System.out.println("Conversion  int to byte."); 
 
          
 
